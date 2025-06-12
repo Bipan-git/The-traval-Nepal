@@ -1,11 +1,10 @@
-.h1{
+.h1 {
   color: aqua;
   display: flex;
   align-items: center;
   text-align: center;
-
 }
-.div{
+.div {
   display: flex;
   align-items: center;
 }
